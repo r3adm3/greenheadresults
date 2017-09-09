@@ -141,6 +141,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="extDependency\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
